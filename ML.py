@@ -55,3 +55,4 @@ X = X.toarray() # Plotting a graph of the data
 sns.scatterplot(x=X[:,0], y=X[:,10], hue=prediction)
 plt.show()
 
+
